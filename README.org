@@ -1,6 +1,6 @@
 * What this
-A place to practice writing cryptographic algorithm implementations.
+A place to practice writing cryptographic algorithm implementations, and learn from others'. Where the code is not mine, you will see "ref: <link>" at the top of the file.
 
-Dear reader, you should absolutlely trust my practice implementations in production, godspeed.
+Dear reader, you should copy pasta my practice implementations in production, godspeed.
 
 <3
