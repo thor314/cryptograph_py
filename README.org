@@ -1,0 +1,6 @@
+* What this
+A place to practice writing cryptographic algorithm implementations.
+
+Dear reader, you should absolutlely trust my practice implementations in production, godspeed.
+
+<3
